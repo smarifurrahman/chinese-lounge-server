@@ -1,0 +1,459 @@
+[
+    {
+        "id": "1",
+        "chef_picture": "https://example.com/chef1.jpg",
+        "chef_name": "Li Wei",
+        "description": "Li Wei is a celebrated chef who specializes in Sichuan cuisine. He has won numerous awards and has over 30 years of experience in the kitchen.",
+        "likes": 1500,
+        "num_recipes": 5,
+        "years_experience": 30,
+        "recipes": [
+            {
+                "id": "1",
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "2 boneless, skinless chicken breasts",
+                    "1 red bell pepper",
+                    "1 green bell pepper",
+                    "1/2 cup of roasted peanuts",
+                    "2 scallions"
+                ],
+                "cooking_method": "1. Cut the chicken into bite-sized pieces and marinate in soy sauce and cornstarch. 2. Cut the bell peppers into bite-sized pieces. 3. Heat oil in a wok or skillet over high heat. 4. Stir-fry the chicken until browned and cooked through. 5. Add the bell peppers and stir-fry for 1-2 minutes. 6. Add the peanuts and scallions, and stir-fry for another minute. 7. Serve hot with rice.",
+                "rating": 4.8
+            },
+            {
+                "id": "2",
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "1 block of soft tofu",
+                    "1/2 pound of ground pork",
+                    "2 garlic cloves",
+                    "1 tablespoon of doubanjiang (spicy bean paste)",
+                    "2 scallions"
+                ],
+                "cooking_method": "1. Cut the tofu into cubes and set aside. 2. Heat oil in a wok or skillet over high heat. 3. Add the ground pork and cook until browned. 4. Add the garlic and doubanjiang, and stir-fry for 30 seconds. 5. Add the tofu and stir gently to avoid breaking it. 6. Add water or stock to the pan and simmer for 5 minutes. 7. Garnish with scallions and serve hot with rice.",
+                "rating": 4.5
+            },
+            {
+                "id": "3",
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 cups of chicken stock",
+                    "1/2 cup of wood ear mushrooms",
+                    "1/2 cup of bamboo shoots",
+                    "1/2 cup of tofu",
+                    "2 eggs"
+                ],
+                "cooking_method": "1. Soak the wood ear mushrooms in hot water for 20 minutes, then slice. 2. Drain the bamboo shoots and cut into thin strips. 3. Cut the tofu into small cubes. 4. Heat the chicken stock in a pot and add the mushrooms, bamboo shoots, and tofu. 5. Season with soy sauce, vinegar, and white pepper. 6. Beat the eggs and slowly pour into the soup while stirring. 7. Garnish with scallions and serve hot.",
+                "rating": 4.2
+            },
+            {
+                "id": "4",
+                "recipe_name": "Sichuan Dan Dan Noodles",
+                "ingredients": [
+                    "8 oz of dried Chinese noodles",
+                    "1/2 pound of ground pork",
+                    "2 garlic cloves",
+                    "1 tablespoon of Sichuan peppercorn",
+                    "2 scallions"
+                ],
+                "cooking_method": "1. Cook the noodles according to package instructions, 2. Drain and set aside. 3. Heat oil in a wok or skillet over high heat. 4. Add the ground pork and cook until browned. 5. Add the garlic and Sichuan peppercorn, and stir-fry for 30 seconds. 6. Add the noodles and stir well to coat with the sauce. 7. Serve hot with chopped scallions.",
+                "rating": 4.6
+            },
+            {
+                "id": "5",
+                "recipe_name": "Gong Bao Shrimp",
+                "ingredients": [
+                    "1 lb of large shrimp, peeled and deveined",
+                    "1 red bell pepper",
+                    "1 green bell pepper",
+                    "1/2 cup of roasted peanuts",
+                    "2 scallions"
+                ],
+                "cooking_method": "1. Cut the bell peppers into bite-sized pieces. 2. Heat oil in a wok or skillet over high heat. 3. Stir-fry the shrimp until pink and cooked through. 4. Add the bell peppers and stir-fry for 1-2 minutes. 5. Add the peanuts and scallions, and stir-fry for another minute. 6. Serve hot with rice.",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_name": "Chen Wei",
+        "description": "Chen Wei is a renowned chef from Shanghai who has been cooking for over 25 years. He is known for his expertise in making dumplings and other traditional Chinese dishes.",
+        "likes": 1200,
+        "num_recipes": 5,
+        "years_experience": 25,
+        "recipes": [
+            {
+                "id": "1",
+                "recipe_name": "Xiao Long Bao (Soup Dumplings)",
+                "ingredients": [
+                    "1 lb of ground pork",
+                    "1/2 cup of finely chopped Napa cabbage",
+                    "2 tablespoons of soy sauce",
+                    "1 tablespoon of Shaoxing wine",
+                    "1 teaspoon of sesame oil"
+                ],
+                "cooking_method": "1. Combine the ground pork, Napa cabbage, soy sauce, Shaoxing wine, and sesame oil in a bowl. 2. Mix well until the filling is well combined. 3. Take a small piece of dough and roll it into a circle. 4. Add a spoonful of filling in the center of the dough. 5. Pinch the edges of the dough together to seal the filling inside. 6. Place the dumplings in a steamer basket and steam for 10-12 minutes. 7. Serve hot with soy sauce and vinegar.",
+                "rating": 4.9
+            },
+            {
+                "id": "2",
+                "recipe_name": "Dan Jiao (Pan-Fried Dumplings)",
+                "ingredients": [
+                    "1 lb of ground pork",
+                    "1/2 cup of finely chopped Napa cabbage",
+                    "2 tablespoons of soy sauce",
+                    "1 tablespoon of Shaoxing wine",
+                    "1 teaspoon of sesame oil"
+                ],
+                "cooking_method": "1. Combine the ground pork, Napa cabbage, soy sauce, Shaoxing wine, and sesame oil in a bowl. 2. Mix well until the filling is well combined. 3. Take a small piece of dough and roll it into a circle. 4. Add a spoonful of filling in the center of the dough. 5. Pinch the edges of the dough together to seal the filling inside. 6. Heat oil in a non-stick pan over medium-high heat. 7. Add the dumplings and fry for 3-4 minutes until the bottom is golden brown. 8. Add water to the pan until it covers the dumplings halfway. 9. Cover the pan and let the dumplings cook for another 5-6 minutes until the water has evaporated and the dumplings are fully cooked. 10. Serve hot with soy sauce and chili oil.",
+                "rating": 4.5
+            },
+            {
+                "id": "3",
+                "recipe_name": "Ma Po Tofu",
+                "ingredients": [
+                    "1 block of firm tofu",
+                    "1/2 lb of ground pork",
+                    "2 tablespoons of doubanjiang (spicy bean paste)",
+                    "2 teaspoons of Sichuan peppercorn",
+                    "2 cloves of garlic"
+                ],
+                "cooking_method": "1. Cut the tofu into small cubes. 2. Heat oil in a wok or skillet over high heat. 3. Add the ground pork and cook until browned. 4. Add the garlic, doubanjiang, and Sichuan peppercorn, and stir-fry for 30 seconds. 5. Add the tofu and stir gently to avoid breaking it up. 6. Add 1 cup of water and bring it to a boil. 7. Let it simmer for 5-7 minutes until the sauce has thickened. 8. Serve hot with rice.",
+                "rating": 4.3
+            },
+            {
+                "id": "4",
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb of boneless, skinless chicken breast",
+                    "1/2 cup of roasted peanuts",
+                    "1 red bell pepper",
+                    "1 green bell pepper",
+                    "2 scallions"
+                ],
+                "cooking_method": "1. Cut the chicken breast into bite-sized pieces. 2. Combine the soy sauce, Shaoxing wine, cornstarch, and sesame oil in a bowl. 3. Add the chicken and marinate for 10-15 minutes. 4. Heat oil in a wok or skillet over high heat. 5. Add the chicken and stir-fry until cooked through. 6. Add the bell peppers and stir-fry for 1-2 minutes. 7. Add the peanuts and scallions, and stir-fry for another minute. 8. Serve hot with rice.",
+                "rating": 4.7
+            },
+            {
+                "id": "5",
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "1/2 lb of pork loin, sliced",
+                    "4 cups of chicken broth",
+                    "1/2 cup of bamboo shoots, sliced",
+                    "1/2 cup of wood ear mushrooms, rehydrated",
+                    "1/4 cup of rice vinegar"
+                ],
+                "cooking_method": "1. Heat oil in a wok or skillet over high heat. 2. Add the pork loin and stir-fry until browned. 3. Add the chicken broth, bamboo shoots, and wood ear mushrooms. 4. Bring it to a boil and let it simmer for 10-15 minutes. 5. Add the rice vinegar and soy sauce. 6. Whisk together the cornstarch and water in a small bowl. 7. Slowly pour it into the soup while stirring constantly. 8. Let the soup simmer for another 5 minutes until it has thickened. 9. Beat the egg in a small bowl. 10. Slowly pour the egg into the soup while stirring constantly. 11. Serve hot.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_name": "Wang Jun",
+        "bio": "Wang Jun is a celebrated chef from Guangzhou, known for his innovative approach to Cantonese cuisine. He has won numerous awards and has been featured in several culinary magazines.",
+        "likes": 123,
+        "num_recipes": 5,
+        "years_experience": 18,
+        "recipes": [
+            {
+                "id": "1",
+                "recipe_name": "Cantonese-style Roast Duck",
+                "ingredients": [
+                    "1 whole duck, about 4-5 lbs",
+                    "1 tablespoon of five-spice powder",
+                    "1 tablespoon of salt",
+                    "1 tablespoon of honey",
+                    "2 tablespoons of soy sauce"
+                ],
+                "cooking_method": "1. Clean the duck inside and out and pat dry with paper towels.\n2. Rub the five-spice powder and salt all over the duck, inside and out.\n3. In a small bowl, mix the honey and soy sauce together.\n4. Brush the honey mixture all over the duck.\n5. Roast the duck in a preheated oven at 375°F for 1-1.5 hours, or until the skin is crispy and brown.\n6. Serve hot with steamed buns and hoisin sauce.",
+                "rating": 4.9
+            },
+            {
+                "id": "2",
+                "recipe_name": "Stir-fried Bok Choy with Garlic",
+                "ingredients": [
+                    "1 lb of baby bok choy",
+                    "4 cloves of garlic, minced",
+                    "2 tablespoons of oyster sauce",
+                    "1 tablespoon of soy sauce",
+                    "1 tablespoon of vegetable oil"
+                ],
+                "cooking_method": "1. Rinse the bok choy and cut off the bottom part. Cut the stalks and leaves into bite-size pieces.\n2. Heat up a wok over high heat and add oil. Add the garlic and stir-fry until fragrant.\n3. Add the bok choy and stir-fry for 1-2 minutes.\n4. Add the oyster sauce and soy sauce and stir-fry for another minute.\n5. Serve hot as a side dish.",
+                "rating": 4.5
+            },
+            {
+                "id": "3",
+                "recipe_name": "Steamed Fish with Ginger and Scallions",
+                "ingredients": [
+                    "1 whole sea bass, about 2-3 lbs",
+                    "1 inch of ginger, sliced",
+                    "2-3 scallions, sliced",
+                    "1 tablespoon of soy sauce",
+                    "1 tablespoon of Shaoxing wine"
+                ],
+                "cooking_method": "1. Clean the fish inside and out and pat dry with paper towels.\n2. Place the fish on a heatproof dish and sprinkle the ginger and scallions on top.\n3. In a small bowl, mix the soy sauce and Shaoxing wine together.\n4. Pour the sauce over the fish.\n5. Steam the fish in a steamer for 12-15 minutes, or until cooked through.\n6. Serve hot with steamed rice.",
+                "rating": 4.8
+            },
+            {
+                "id": "4",
+                "recipe_name": "Congee with Century Egg and Pork",
+                "ingredients": [
+                    "1 cup of long-grain rice",
+                    "1/2 cup of sliced pork",
+                    "1 century egg, sliced",
+                    "2-3 cups of chicken broth",
+                    "1 tablespoon of Shaoxing wine"
+                ],
+                "cooking_method": "1. Rinse the rice several times until the water runs clear. Drain well.\n2. In a large pot, bring the chicken broth to a boil.\n3. Add the rice and sliced pork to the pot and stir well.\n4. Reduce the heat to low and simmer for 30-40 minutes, or until the rice has broken down and the congee is thick and creamy.\n5. Add the sliced century egg and stir well. Cook for another 2-3 minutes until the egg is heated through.\n6. Serve hot with chopped scallions and soy sauce.",
+                "rating": 4.6
+            },
+            {
+                "id": "5",
+                "recipe_name": "Sichuan-style Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb of boneless chicken breast, cut into bite-size pieces",
+                    "1/2 cup of roasted peanuts",
+                    "2-3 dried red chilies",
+                    "2 cloves of garlic, minced",
+                    "2 tablespoons of soy sauce"
+                ],
+                "cooking_method": "1. Marinate the chicken with soy sauce for 30 minutes.\n2. Heat up a wok over high heat and add oil. Add the dried chilies and stir-fry for 10-15 seconds.\n3. Add the garlic and stir-fry until fragrant.\n4. Add the chicken and stir-fry for 2-3 minutes, or until cooked through.\n5. Add the roasted peanuts and stir well.\n6. Serve hot with steamed rice.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://example.com/chef3.jpg",
+        "chef_name": "Li Mei",
+        "bio": "Li Mei is a master of Sichuan cuisine, known for her fiery and flavorful dishes. She has written several cookbooks and has appeared on numerous cooking shows.",
+        "likes": 456,
+        "num_recipes": 5,
+        "years_experience": 22,
+        "recipes": [
+            {
+                "id": "1",
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "1 block of firm tofu, cut into small cubes",
+                    "1/2 lb of ground pork",
+                    "2-3 cloves of garlic, minced",
+                    "1 tablespoon of Sichuan peppercorn",
+                    "1 tablespoon of chili bean paste"
+                ],
+                "cooking_method": "1. Heat up a wok over high heat and add oil. Add the Sichuan peppercorn and stir-fry until fragrant.\n2. Add the ground pork and stir-fry until browned.\n3. Add the garlic and chili bean paste and stir-fry until fragrant.\n4. Add the tofu and stir gently.\n5. Add water to cover the tofu and bring to a boil.\n6. Simmer for 5-10 minutes until the sauce has thickened.\n7. Serve hot with steamed rice.",
+                "rating": 4.9
+            },
+            {
+                "id": "2",
+                "recipe_name": "Dan Dan Noodles",
+                "ingredients": [
+                    "1 lb of fresh noodles",
+                    "1/2 lb of ground pork",
+                    "2-3 cloves of garlic, minced",
+                    "1 tablespoon of chili oil",
+                    "1 tablespoon of soy sauce"
+                ],
+                "cooking_method": "1. Cook the noodles according to package instructions. Drain well.\n2. In a small bowl, mix together the chili oil, soy sauce, and garlic.\n3. Pour the sauce over the noodles and toss to coat.\n4. Serve hot, garnished with chopped scallions and peanuts.",
+                "rating": 4.5
+            },
+            {
+                "id": "3",
+                "recipe_name": "Double-cooked Pork",
+                "ingredients": [
+                    "1 lb of pork belly, sliced thinly",
+                    "1/2 cup of fermented black beans",
+                    "1 red bell pepper, sliced",
+                    "1 green bell pepper, sliced",
+                    "2 cloves of garlic, minced"
+                ],
+                "cooking_method": "1. Blanch the pork slices in boiling water for 2-3 minutes. Drain well.\n2. Heat up a wok over high heat and add oil. Add the garlic and stir-fry until fragrant.\n3. Add the pork slices and stir-fry for 2-3 minutes, or until lightly browned.\n4. Add the fermented black beans and stir well.\n5. Add the sliced bell peppers and stir-fry for another 2-3 minutes.\n6. Serve hot with steamed rice.",
+                "rating": 4.7
+            },
+            {
+                "id": "4",
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "1/2 lb of tofu, sliced into small cubes",
+                    "1/2 cup of wood ear mushrooms",
+                    "1/2 cup of bamboo shoots, sliced",
+                    "2-3 cloves of garlic, minced",
+                    "2 tablespoons of soy sauce"
+                ],
+                "cooking_method": "1. Soak the wood ear mushrooms in hot water for 10-15 minutes until softened. Drain well.\n2. In a pot, bring the chicken broth to a boil.\n3. Add the tofu, wood ear mushrooms, and bamboo shoots to the pot and stir well.\n4. Add the soy sauce and vinegar and stir well.\n5. In a small bowl, mix together the cornstarch and water to make a slurry.\n6. Add the slurry to the pot and stir well. Cook for another 2-3 minutes until the soup has thickened.\n7. Serve hot, garnished with chopped scallions and cilantro.",
+                "rating": 4.4
+            },
+            {
+                "id": "5",
+                "recipe_name": "Ma La Xiang Guo",
+                "ingredients": [
+                    "1/2 lb of beef, sliced thinly",
+                    "1/2 lb of lamb, sliced thinly",
+                    "1/2 lb of shrimp, shelled and deveined",
+                    "2 cups of vegetables (e.g. Napa cabbage, bok choy, lotus root)",
+                    "1 tablespoon of Sichuan peppercorn"
+                ],
+                "cooking_method": "1. Heat up a wok over high heat and add oil. Add the Sichuan peppercorn and stir-fry until fragrant.\n2. Add the beef and lamb and stir-fry for 2-3 minutes, or until lightly browned.\n3. Add the shrimp and stir-fry for another 1-2 minutes.\n4. Add the vegetables and stir-fry until tender.\n5. Serve hot with steamed rice.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://example.com/chef1.jpg",
+        "chef_name": "Liu Yang",
+        "description": "Chef Liu is a master of Sichuan cuisine and has over 20 years of experience in the industry.",
+        "likes": 500,
+        "num_recipes": 5,
+        "years_of_experience": 20,
+        "recipes": [
+            {
+                "id": "1",
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "1/2 lb of ground pork",
+                    "1 block of tofu, diced into small cubes",
+                    "1 tablespoon of doubanjiang (broad bean paste with chili oil)",
+                    "2 cloves of garlic, minced",
+                    "1 tablespoon of Sichuan peppercorn"
+                ],
+                "cooking_method": "1. Heat up a wok over high heat and add oil. Add the Sichuan peppercorn and stir-fry until fragrant.\n2. Add the ground pork and stir-fry for 2-3 minutes, or until browned.\n3. Add the garlic and doubanjiang and stir-fry for another 1-2 minutes.\n4. Add the diced tofu and stir gently to coat the tofu with the sauce.\n5. Serve hot with steamed rice.",
+                "rating": 4.6
+            },
+            {
+                "id": "2",
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb of boneless, skinless chicken breast, cut into small cubes",
+                    "1 red bell pepper, diced",
+                    "1 green bell pepper, diced",
+                    "1/2 cup of roasted peanuts",
+                    "2-3 dried red chili peppers"
+                ],
+                "cooking_method": "1. In a small bowl, mix together the cornstarch and water to make a slurry.\n2. In another small bowl, mix together the soy sauce, rice vinegar, and sugar to make a sauce.\n3. Heat up a wok over high heat and add oil. Add the dried red chili peppers and stir-fry until fragrant.\n4. Add the chicken and stir-fry for 2-3 minutes, or until lightly browned.\n5. Add the diced bell peppers and stir-fry for another 2-3 minutes.\n6. Add the sauce to the wok and stir well.\n7. Add the cornstarch slurry and stir well. Cook for another 1-2 minutes until the sauce has thickened.\n8. Add the roasted peanuts and stir well.\n9. Serve hot with steamed rice.",
+                "rating": 4.7
+            },
+            {
+                "id": "3",
+                "recipe_name": "Dan Dan Noodles",
+                "ingredients": [
+                    "1 lb of fresh Chinese noodles",
+                    "1/2 lb of ground pork",
+                    "2 tablespoons of chili oil",
+                    "2 tablespoons of soy sauce",
+                    "2 cloves of garlic, minced"
+                ],
+                "cooking_method": "1. Cook the noodles according to package instructions. Drain well.\n2. In a small bowl, mix together the chili oil, soy sauce, and garlic.\n3. Pour the sauce over the noodles and toss to coat.\n4. Serve hot, garnished with chopped scallions and peanuts.",
+                "rating": 4.5
+            },
+            {
+                "id": "4",
+                "recipe_name": "Double-cooked Pork",
+                "ingredients": [
+                    "1 tablespoon of fermented black beans",
+                    "1 tablespoon of Sichuan peppercorn",
+                    "1 tablespoon of doubanjiang (broad bean paste with chili oil)",
+                    "1/2 head of Napa cabbage, sliced thinly",
+                    "1 red bell pepper, sliced thinly"
+                ],
+                "cooking_method": "1. Heat up a wok over high heat and add oil. Add the pork belly and stir-fry for 2-3 minutes, or until browned.\n2. Add the fermented black beans, Sichuan peppercorn, and doubanjiang, and stir-fry for another 1-2 minutes.\n3. Add the sliced Napa cabbage and red bell pepper and stir-fry for another 2-3 minutes.\n4. Serve hot with steamed rice.",
+                "rating": 4.4
+            },
+            {
+                "id": "5",
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 cups of chicken broth",
+                    "1/2 cup of bamboo shoots, sliced",
+                    "1/2 cup of wood ear mushrooms, sliced",
+                    "1/2 cup of tofu, diced",
+                    "2 eggs, beaten"
+                ],
+                "cooking_method": "1. In a pot, bring the chicken broth to a boil.\n2. Add the bamboo shoots, wood ear mushrooms, and tofu, and bring to a simmer.\n3. In a small bowl, mix together the cornstarch and water to make a slurry.\n4. Slowly pour the beaten eggs into the soup, stirring gently with a fork to create egg ribbons.\n5. Add the cornstarch slurry to the soup and stir well. Cook for another 1-2 minutes until the soup has thickened.\n6. Season with white pepper and black vinegar to taste.\n7. Serve hot, garnished with chopped scallions and cilantro.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_name": "Li Ming",
+        "description": "Chef Li is a specialist in Cantonese cuisine and has been cooking for over 15 years.",
+        "likes": 750,
+        "num_recipes": 5,
+        "years_of_experience": 15,
+        "recipes": [
+            {
+                "id": "1",
+                "recipe_name": "Cantonese Wonton Soup",
+                "ingredients": [
+                    "1 lb of ground pork",
+                    "1/2 lb of shrimp, peeled and deveined",
+                    "1 package of wonton wrappers",
+                    "1/2 cup of green onions, chopped",
+                    "1 tablespoon of sesame oil"
+                ],
+                "cooking_method": "1. In a large bowl, mix together the ground pork, shrimp, green onions, and sesame oil.\n2. Fill each wonton wrapper with about 1 teaspoon of filling and fold into a triangle, pressing the edges to seal.\n3. In a pot, bring the chicken broth to a boil.\n4. Add the wontons to the pot and cook for 5-7 minutes, or until the wontons are cooked through.\n5. Serve hot, garnished with chopped scallions.",
+                "rating": 4.8
+            },
+            {
+                "id": "2",
+                "recipe_name": "Char Siu Pork",
+                "ingredients": [
+                    "1 lb of pork shoulder, sliced thinly",
+                    "2 tablespoons of honey",
+                    "2 tablespoons of hoisin sauce",
+                    "1 tablespoon of soy sauce",
+                    "1 teaspoon of five spice powder"
+                ],
+                "cooking_method": "1. In a large bowl, mix together the honey, hoisin sauce, soy sauce, Shaoxing wine, and five spice powder.\n2. Add the sliced pork shoulder to the marinade and let marinate for at least 2 hours or overnight.\n3. Preheat your oven to 400°F.\n4. Line a baking sheet with foil and place the pork slices on the sheet.\n5. Roast in the oven for 20-25 minutes, or until the pork is cooked through and caramelized.\n6. Serve hot with steamed rice and vegetables.",
+                "rating": 4.6
+            },
+            {
+                "id": "3",
+                "recipe_name": "Steamed Fish with Ginger and Scallions",
+                "ingredients": [
+                    "1 whole fish, cleaned and scaled",
+                    "3 tablespoons of soy sauce",
+                    "3 tablespoons of Shaoxing wine",
+                    "1 tablespoon of sugar",
+                    "2 inches of ginger, sliced",
+                    "3 stalks of scallions, sliced"
+                ],
+                "cooking_method": "1. In a heatproof plate that fits inside your steamer, place the whole fish.\n2. In a small bowl, mix together the soy sauce, Shaoxing wine, and sugar. Pour the sauce over the fish.\n3. Sprinkle the sliced ginger and scallions over the fish.\n4. Steam the fish for 12-15 minutes, or until the fish is cooked through.\n5. Serve hot, garnished with more sliced scallions and cilantro if desired.",
+                "rating": 4.7
+            },
+            {
+                "id": "4",
+                "recipe_name": "Egg Fried Rice",
+                "ingredients": [
+                    "2 cups of cooked rice, chilled",
+                    "3 eggs, beaten",
+                    "1/2 cup of frozen peas and carrots",
+                    "2 green onions, sliced",
+                    "1 tablespoon of soy sauce"
+                ],
+                "cooking_method": "1. Heat up a wok or large pan over high heat.\n2. Add some oil to the pan and swirl to coat.\n3. Add the beaten eggs to the pan and scramble until cooked through.\n4. Add the frozen peas and carrots to the pan and stir-fry for 1-2 minutes.\n5. Add the chilled rice to the pan and stir-fry for another 2-3 minutes, breaking up any clumps of rice.\n6. Add the sliced green onions and soy sauce to the pan and stir-fry for another minute or so.\n7. Serve hot as a side dish or main course.",
+                "rating": 4.5
+            },
+            {
+                "id": "5",
+                "recipe_name": "Hong Kong Style Milk Tea",
+                "ingredients": [
+                    "2 black tea bags",
+                    "2 cups of water",
+                    "1/2 cup of evaporated milk",
+                    "1/4 cup of sweetened condensed milk",
+                    "1 tablespoon of sugar"
+                ],
+                "cooking_method": "1. Bring the water to a boil in a small pot.\n2. Add the tea bags to the pot and let steep for 3-5 minutes.\n3. In another pot, bring the evaporated milk, sweetened condensed milk, and sugar to a simmer, stirring constantly to prevent burning.\n4. Strain the tea into the milk mixture and stir well.\n5. Serve hot or iced, with additional sugar to taste.",
+                "rating": 4.9
+            }
+        ]
+    }
+]
