@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "chef_picture": "https://example.com/chef1.jpg",
+        "chef_picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1577&q=80",
         "chef_name": "Li Wei",
         "description": "Li Wei is a celebrated chef who specializes in Sichuan cuisine. He has won numerous awards and has over 30 years of experience in the kitchen.",
         "likes": 1500,
@@ -77,7 +77,7 @@
     },
     {
         "id": "2",
-        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_picture": "https://images.unsplash.com/photo-1574966740429-6158cb530208?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "chef_name": "Chen Wei",
         "description": "Chen Wei is a renowned chef from Shanghai who has been cooking for over 25 years. He is known for his expertise in making dumplings and other traditional Chinese dishes.",
         "likes": 1200,
@@ -153,7 +153,7 @@
     },
     {
         "id": 3,
-        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_picture": "https://images.unsplash.com/photo-1532635211-8ec15f2ce05c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "chef_name": "Wang Jun",
         "bio": "Wang Jun is a celebrated chef from Guangzhou, known for his innovative approach to Cantonese cuisine. He has won numerous awards and has been featured in several culinary magazines.",
         "likes": 123,
@@ -229,7 +229,7 @@
     },
     {
         "id": 4,
-        "chef_picture": "https://example.com/chef3.jpg",
+        "chef_picture": "https://images.unsplash.com/photo-1574966740637-12c84035a4f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "chef_name": "Li Mei",
         "bio": "Li Mei is a master of Sichuan cuisine, known for her fiery and flavorful dishes. She has written several cookbooks and has appeared on numerous cooking shows.",
         "likes": 456,
@@ -305,7 +305,7 @@
     },
     {
         "id": 5,
-        "chef_picture": "https://example.com/chef1.jpg",
+        "chef_picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "chef_name": "Liu Yang",
         "description": "Chef Liu is a master of Sichuan cuisine and has over 20 years of experience in the industry.",
         "likes": 500,
@@ -381,7 +381,7 @@
     },
     {
         "id": 6,
-        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_picture": "https://images.unsplash.com/photo-1565608087341-404b25492fee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "chef_name": "Li Ming",
         "description": "Chef Li is a specialist in Cantonese cuisine and has been cooking for over 15 years.",
         "likes": 750,
