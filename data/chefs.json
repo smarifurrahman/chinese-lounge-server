@@ -77,6 +77,20 @@
                 ],
                 "cooking_method": "1. Cut the bell peppers into bite-sized pieces. 2. Heat oil in a wok or skillet over high heat. 3. Stir-fry the shrimp until pink and cooked through. 4. Add the bell peppers and stir-fry for 1-2 minutes. 5. Add the peanuts and scallions, and stir-fry for another minute. 6. Serve hot with rice.",
                 "rating": 4.4
+            },
+            {
+                "id": "6",
+                "recipe_name": "Hot and Sour Soup",
+                "recipe_picture": "https://images.unsplash.com/photo-1503764654157-72d979d9af2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80",
+                "ingredients": [
+                    "4 cups of chicken broth",
+                    "1/2 cup of bamboo shoots, sliced",
+                    "1/2 cup of wood ear mushrooms, sliced",
+                    "1/2 cup of tofu, diced",
+                    "2 eggs, beaten"
+                ],
+                "cooking_method": "1. In a pot, bring the chicken broth to a boil.\n2. Add the bamboo shoots, wood ear mushrooms, and tofu, and bring to a simmer.\n3. In a small bowl, mix together the cornstarch and water to make a slurry.\n4. Slowly pour the beaten eggs into the soup, stirring gently with a fork to create egg ribbons.\n5. Add the cornstarch slurry to the soup and stir well. Cook for another 1-2 minutes until the soup has thickened.\n6. Season with white pepper and black vinegar to taste.\n7. Serve hot, garnished with chopped scallions and cilantro.",
+                "rating": 4.3
             }
         ]
     },
@@ -158,6 +172,20 @@
                 ],
                 "cooking_method": "1. Heat oil in a wok or skillet over high heat. 2. Add the pork loin and stir-fry until browned. 3. Add the chicken broth, bamboo shoots, and wood ear mushrooms. 4. Bring it to a boil and let it simmer for 10-15 minutes. 5. Add the rice vinegar and soy sauce. 6. Whisk together the cornstarch and water in a small bowl. 7. Slowly pour it into the soup while stirring constantly. 8. Let the soup simmer for another 5 minutes until it has thickened. 9. Beat the egg in a small bowl. 10. Slowly pour the egg into the soup while stirring constantly. 11. Serve hot.",
                 "rating": 4.2
+            },
+            {
+                "id": "6",
+                "recipe_name": "Hot and Sour Soup",
+                "recipe_picture": "https://images.unsplash.com/photo-1600470944938-b301e41001c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "ingredients": [
+                    "4 cups of chicken broth",
+                    "1/2 cup of bamboo shoots, sliced",
+                    "1/2 cup of wood ear mushrooms, sliced",
+                    "1/2 cup of tofu, diced",
+                    "2 eggs, beaten"
+                ],
+                "cooking_method": "1. In a pot, bring the chicken broth to a boil.\n2. Add the bamboo shoots, wood ear mushrooms, and tofu, and bring to a simmer.\n3. In a small bowl, mix together the cornstarch and water to make a slurry.\n4. Slowly pour the beaten eggs into the soup, stirring gently with a fork to create egg ribbons.\n5. Add the cornstarch slurry to the soup and stir well. Cook for another 1-2 minutes until the soup has thickened.\n6. Season with white pepper and black vinegar to taste.\n7. Serve hot, garnished with chopped scallions and cilantro.",
+                "rating": 4.3
             }
         ]
     },
@@ -239,6 +267,20 @@
                 ],
                 "cooking_method": "1. Marinate the chicken with soy sauce for 30 minutes.\n2. Heat up a wok over high heat and add oil. Add the dried chilies and stir-fry for 10-15 seconds.\n3. Add the garlic and stir-fry until fragrant.\n4. Add the chicken and stir-fry for 2-3 minutes, or until cooked through.\n5. Add the roasted peanuts and stir well.\n6. Serve hot with steamed rice.",
                 "rating": 4.7
+            },
+            {
+                "id": "6",
+                "recipe_name": "Hot and Sour Soup",
+                "recipe_picture": "https://images.unsplash.com/photo-1496116155751-2833e0c42786?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "ingredients": [
+                    "4 cups of chicken broth",
+                    "1/2 cup of bamboo shoots, sliced",
+                    "1/2 cup of wood ear mushrooms, sliced",
+                    "1/2 cup of tofu, diced",
+                    "2 eggs, beaten"
+                ],
+                "cooking_method": "1. In a pot, bring the chicken broth to a boil.\n2. Add the bamboo shoots, wood ear mushrooms, and tofu, and bring to a simmer.\n3. In a small bowl, mix together the cornstarch and water to make a slurry.\n4. Slowly pour the beaten eggs into the soup, stirring gently with a fork to create egg ribbons.\n5. Add the cornstarch slurry to the soup and stir well. Cook for another 1-2 minutes until the soup has thickened.\n6. Season with white pepper and black vinegar to taste.\n7. Serve hot, garnished with chopped scallions and cilantro.",
+                "rating": 4.3
             }
         ]
     },
@@ -320,6 +362,20 @@
                 ],
                 "cooking_method": "1. Heat up a wok over high heat and add oil. Add the Sichuan peppercorn and stir-fry until fragrant.\n2. Add the beef and lamb and stir-fry for 2-3 minutes, or until lightly browned.\n3. Add the shrimp and stir-fry for another 1-2 minutes.\n4. Add the vegetables and stir-fry until tender.\n5. Serve hot with steamed rice.",
                 "rating": 4.8
+            },
+            {
+                "id": "6",
+                "recipe_name": "Hot and Sour Soup",
+                "recipe_picture": "https://images.unsplash.com/photo-1606756790138-261d2b21cd75?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+                "ingredients": [
+                    "4 cups of chicken broth",
+                    "1/2 cup of bamboo shoots, sliced",
+                    "1/2 cup of wood ear mushrooms, sliced",
+                    "1/2 cup of tofu, diced",
+                    "2 eggs, beaten"
+                ],
+                "cooking_method": "1. In a pot, bring the chicken broth to a boil.\n2. Add the bamboo shoots, wood ear mushrooms, and tofu, and bring to a simmer.\n3. In a small bowl, mix together the cornstarch and water to make a slurry.\n4. Slowly pour the beaten eggs into the soup, stirring gently with a fork to create egg ribbons.\n5. Add the cornstarch slurry to the soup and stir well. Cook for another 1-2 minutes until the soup has thickened.\n6. Season with white pepper and black vinegar to taste.\n7. Serve hot, garnished with chopped scallions and cilantro.",
+                "rating": 4.3
             }
         ]
     },
@@ -401,6 +457,20 @@
                 ],
                 "cooking_method": "1. In a pot, bring the chicken broth to a boil.\n2. Add the bamboo shoots, wood ear mushrooms, and tofu, and bring to a simmer.\n3. In a small bowl, mix together the cornstarch and water to make a slurry.\n4. Slowly pour the beaten eggs into the soup, stirring gently with a fork to create egg ribbons.\n5. Add the cornstarch slurry to the soup and stir well. Cook for another 1-2 minutes until the soup has thickened.\n6. Season with white pepper and black vinegar to taste.\n7. Serve hot, garnished with chopped scallions and cilantro.",
                 "rating": 4.3
+            },
+            {
+                "id": "6",
+                "recipe_name": "Cantonese Wonton Soup",
+                "recipe_picture": "https://images.unsplash.com/photo-1615444814527-f5ebbea2cadb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "ingredients": [
+                    "1 lb of ground pork",
+                    "1/2 lb of shrimp, peeled and deveined",
+                    "1 package of wonton wrappers",
+                    "1/2 cup of green onions, chopped",
+                    "1 tablespoon of sesame oil"
+                ],
+                "cooking_method": "1. In a large bowl, mix together the ground pork, shrimp, green onions, and sesame oil.\n2. Fill each wonton wrapper with about 1 teaspoon of filling and fold into a triangle, pressing the edges to seal.\n3. In a pot, bring the chicken broth to a boil.\n4. Add the wontons to the pot and cook for 5-7 minutes, or until the wontons are cooked through.\n5. Serve hot, garnished with chopped scallions.",
+                "rating": 4.8
             }
         ]
     },
@@ -483,6 +553,20 @@
                 ],
                 "cooking_method": "1. Bring the water to a boil in a small pot.\n2. Add the tea bags to the pot and let steep for 3-5 minutes.\n3. In another pot, bring the evaporated milk, sweetened condensed milk, and sugar to a simmer, stirring constantly to prevent burning.\n4. Strain the tea into the milk mixture and stir well.\n5. Serve hot or iced, with additional sugar to taste.",
                 "rating": 4.9
+            },
+            {
+                "id": "6",
+                "recipe_name": "Hot and Sour Soup",
+                "recipe_picture": "https://images.unsplash.com/photo-1584003397078-45ef96d6174d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+                "ingredients": [
+                    "4 cups of chicken broth",
+                    "1/2 cup of bamboo shoots, sliced",
+                    "1/2 cup of wood ear mushrooms, sliced",
+                    "1/2 cup of tofu, diced",
+                    "2 eggs, beaten"
+                ],
+                "cooking_method": "1. In a pot, bring the chicken broth to a boil.\n2. Add the bamboo shoots, wood ear mushrooms, and tofu, and bring to a simmer.\n3. In a small bowl, mix together the cornstarch and water to make a slurry.\n4. Slowly pour the beaten eggs into the soup, stirring gently with a fork to create egg ribbons.\n5. Add the cornstarch slurry to the soup and stir well. Cook for another 1-2 minutes until the soup has thickened.\n6. Season with white pepper and black vinegar to taste.\n7. Serve hot, garnished with chopped scallions and cilantro.",
+                "rating": 4.3
             }
         ]
     }
