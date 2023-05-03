@@ -15,6 +15,12 @@ app.get('/chefs', (req, res) => {
     res.send(chefs);
 })
 
+app.get('/recipes/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedRecipes = chefs.find(chef => chef.id === id);
+    res.send(selectedRecipes);
+})
+
 app.listen(port, () => {
     console.log(`chinese lounge api is running on port: ${port}`);
 })
