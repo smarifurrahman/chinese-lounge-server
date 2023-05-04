@@ -4,6 +4,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 const chefs = require('./data/chefs.json');
+const blogs = require('./data/blogs.json');
 
 app.use(cors());
 
@@ -19,6 +20,10 @@ app.get('/recipes/:id', (req, res) => {
     const id = req.params.id;
     const selectedRecipes = chefs.find(chef => chef.id === id);
     res.send(selectedRecipes);
+})
+
+app.get('/blogs', (req, res) => {
+    res.send(blogs);
 })
 
 app.listen(port, () => {
