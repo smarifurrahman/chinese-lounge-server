@@ -5,7 +5,7 @@
         "chef_name": "Li Wei",
         "description": "Li Wei is a celebrated chef who specializes in Sichuan cuisine. He has won numerous awards and has over 30 years of experience in the kitchen.",
         "likes": 1500,
-        "num_recipes": 5,
+        "num_recipes": 6,
         "years_of_experience": 30,
         "recipes": [
             {
@@ -100,7 +100,7 @@
         "chef_name": "Chen Wei",
         "description": "Chen Wei is a renowned chef from Shanghai who has been cooking for over 25 years. He is known for his expertise in making dumplings and other traditional Chinese dishes.",
         "likes": 1200,
-        "num_recipes": 5,
+        "num_recipes": 6,
         "years_of_experience": 25,
         "recipes": [
             {
@@ -193,9 +193,9 @@
         "id": "3",
         "chef_picture": "https://images.unsplash.com/photo-1532635211-8ec15f2ce05c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "chef_name": "Wang Jun",
-        "bio": "Wang Jun is a celebrated chef from Guangzhou, known for his innovative approach to Cantonese cuisine. He has won numerous awards and has been featured in several culinary magazines.",
+        "description": "Wang Jun is a celebrated chef from Guangzhou, known for his innovative approach to Cantonese cuisine. He has won numerous awards and has been featured in several culinary magazines.",
         "likes": 123,
-        "num_recipes": 5,
+        "num_recipes": 6,
         "years_of_experience": 18,
         "recipes": [
             {
@@ -288,9 +288,9 @@
         "id": "4",
         "chef_picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "chef_name": "Li Mei",
-        "bio": "Li Mei is a master of Sichuan cuisine, known for her fiery and flavorful dishes. She has written several cookbooks and has appeared on numerous cooking shows.",
+        "description": "Li Mei is a master of Sichuan cuisine, known for her fiery and flavorful dishes. She has written several cookbooks and has appeared on numerous cooking shows.",
         "likes": 456,
-        "num_recipes": 5,
+        "num_recipes": 6,
         "years_of_experience": 22,
         "recipes": [
             {
@@ -385,7 +385,7 @@
         "chef_name": "Liu Yang",
         "description": "Chef Liu is a master of Sichuan cuisine and has over 20 years of experience in the industry.",
         "likes": 500,
-        "num_recipes": 5,
+        "num_recipes": 6,
         "years_of_experience": 20,
         "recipes": [
             {
@@ -480,7 +480,7 @@
         "chef_name": "Li Ming",
         "description": "Chef Li is a specialist in Cantonese cuisine and has been cooking for over 15 years.",
         "likes": 750,
-        "num_recipes": 5,
+        "num_recipes": 6,
         "years_of_experience": 15,
         "recipes": [
             {
